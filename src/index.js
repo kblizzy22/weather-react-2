@@ -15,13 +15,13 @@ root.render(
         <Weather />
         <footer>
           This project was coded by
-          <a href="https://github.com/kblizzy22/" target="_blank"
+          <a href="https://github.com/kblizzy22/" target="_blank" rel="noreferrer"
             > Kelly Bailey-Alme</a
           >, is
-          <a href="https://github.com/kblizzy22/weather-react-2" target="_blank"
+          <a href="https://github.com/kblizzy22/weather-react-2" target="_blank" rel="noreferrer"
             > open-sourced on Github </a
           >
-          and <a href="https://tangerine-cupcake-288dde.netlify.app/" target="_blank">hosted on Netlify.</a>
+          and <a href="https://tangerine-cupcake-288dde.netlify.app/" target="_blank" rel="noreferrer">hosted on Netlify.</a>
         </footer>
       </div>
     </body>
